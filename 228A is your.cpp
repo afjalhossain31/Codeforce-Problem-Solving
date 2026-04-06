@@ -1,3 +1,8 @@
+// Input 4 numbers
+// Sort the numbers
+// Remove duplicate using unique + erase
+// Count duplicates = 4 - size of unique elements
+// Print result
 #include <iostream>
 #include <vector>
 #include <algorithm>
